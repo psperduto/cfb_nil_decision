@@ -1,0 +1,529 @@
+draft_position_group,feature,draft_picks,nonmissing_rows,missing_rows,availability_pct,unique_observed_values
+Defensive back,defensive_PD,536,256,280,47.76,39
+Defensive back,defensive_QB_HUR,536,256,280,47.76,10
+Defensive back,defensive_SACKS,536,256,280,47.76,16
+Defensive back,defensive_SOLO,536,256,280,47.76,118
+Defensive back,defensive_TD,536,256,280,47.76,6
+Defensive back,defensive_TFL,536,256,280,47.76,39
+Defensive back,defensive_TOT,536,256,280,47.76,146
+Defensive back,interceptions_INT,536,244,292,45.52,13
+Defensive back,interceptions_TD,536,244,292,45.52,5
+Defensive back,interceptions_YDS,536,244,292,45.52,125
+Defensive back,interceptions_AVG,536,214,322,39.93,101
+Defensive back,fumbles_FUM,536,157,379,29.29,5
+Defensive back,fumbles_LOST,536,157,379,29.29,4
+Defensive back,fumbles_REC,536,157,379,29.29,7
+Defensive back,puntReturns_NO,536,58,478,10.82,20
+Defensive back,puntReturns_TD,536,58,478,10.82,4
+Defensive back,puntReturns_YDS,536,58,478,10.82,44
+Defensive back,kickReturns_NO,536,48,488,8.96,21
+Defensive back,kickReturns_TD,536,48,488,8.96,3
+Defensive back,kickReturns_YDS,536,48,488,8.96,43
+Defensive back,puntReturns_AVG,536,29,507,5.41,26
+Defensive back,kickReturns_AVG,536,24,512,4.48,23
+Defensive back,receiving_REC,536,20,516,3.73,6
+Defensive back,receiving_TD,536,20,516,3.73,3
+Defensive back,receiving_YDS,536,20,516,3.73,19
+Defensive back,rushing_CAR,536,16,520,2.99,4
+Defensive back,rushing_TD,536,16,520,2.99,3
+Defensive back,rushing_YDS,536,16,520,2.99,12
+Defensive back,receiving_YPR,536,6,530,1.12,6
+Defensive back,rushing_YPC,536,5,531,0.93,5
+Defensive back,punting_In_20,536,1,535,0.19,1
+Defensive back,punting_NO,536,1,535,0.19,1
+Defensive back,punting_TB,536,1,535,0.19,1
+Defensive back,punting_YDS,536,1,535,0.19,1
+Defensive back,kicking_FGA,536,0,536,0.0,0
+Defensive back,kicking_FGM,536,0,536,0.0,0
+Defensive back,kicking_PCT,536,0,536,0.0,0
+Defensive back,kicking_PTS,536,0,536,0.0,0
+Defensive back,kicking_XPA,536,0,536,0.0,0
+Defensive back,kicking_XPM,536,0,536,0.0,0
+Defensive back,passing_ATT,536,0,536,0.0,0
+Defensive back,passing_COMPLETIONS,536,0,536,0.0,0
+Defensive back,passing_INT,536,0,536,0.0,0
+Defensive back,passing_PCT,536,0,536,0.0,0
+Defensive back,passing_TD,536,0,536,0.0,0
+Defensive back,passing_YDS,536,0,536,0.0,0
+Defensive back,passing_YPA,536,0,536,0.0,0
+Defensive back,punting_YPP,536,0,536,0.0,0
+Front seven,defensive_PD,743,374,369,50.34,19
+Front seven,defensive_QB_HUR,743,374,369,50.34,32
+Front seven,defensive_SACKS,743,374,369,50.34,55
+Front seven,defensive_SOLO,743,374,369,50.34,139
+Front seven,defensive_TD,743,374,369,50.34,3
+Front seven,defensive_TFL,743,374,369,50.34,84
+Front seven,defensive_TOT,743,374,369,50.34,190
+Front seven,fumbles_FUM,743,256,487,34.45,2
+Front seven,fumbles_LOST,743,256,487,34.45,2
+Front seven,fumbles_REC,743,256,487,34.45,9
+Front seven,interceptions_INT,743,133,610,17.9,6
+Front seven,interceptions_TD,743,133,610,17.9,3
+Front seven,interceptions_YDS,743,133,610,17.9,63
+Front seven,interceptions_AVG,743,66,677,8.88,37
+Front seven,puntReturns_NO,743,26,717,3.5,5
+Front seven,puntReturns_TD,743,26,717,3.5,2
+Front seven,puntReturns_YDS,743,26,717,3.5,22
+Front seven,rushing_CAR,743,25,718,3.36,6
+Front seven,rushing_TD,743,25,718,3.36,3
+Front seven,rushing_YDS,743,25,718,3.36,17
+Front seven,kickReturns_NO,743,15,728,2.02,4
+Front seven,kickReturns_TD,743,15,728,2.02,1
+Front seven,kickReturns_YDS,743,15,728,2.02,10
+Front seven,receiving_REC,743,15,728,2.02,4
+Front seven,receiving_TD,743,15,728,2.02,4
+Front seven,receiving_YDS,743,15,728,2.02,10
+Front seven,rushing_YPC,743,13,730,1.75,9
+Front seven,puntReturns_AVG,743,6,737,0.81,6
+Front seven,receiving_YPR,743,6,737,0.81,6
+Front seven,passing_ATT,743,4,739,0.54,2
+Front seven,passing_COMPLETIONS,743,4,739,0.54,3
+Front seven,passing_INT,743,4,739,0.54,1
+Front seven,passing_TD,743,4,739,0.54,1
+Front seven,passing_YDS,743,4,739,0.54,4
+Front seven,kickReturns_AVG,743,1,742,0.13,1
+Front seven,passing_PCT,743,1,742,0.13,1
+Front seven,passing_YPA,743,1,742,0.13,1
+Front seven,kicking_FGA,743,0,743,0.0,0
+Front seven,kicking_FGM,743,0,743,0.0,0
+Front seven,kicking_PCT,743,0,743,0.0,0
+Front seven,kicking_PTS,743,0,743,0.0,0
+Front seven,kicking_XPA,743,0,743,0.0,0
+Front seven,kicking_XPM,743,0,743,0.0,0
+Front seven,punting_In_20,743,0,743,0.0,0
+Front seven,punting_NO,743,0,743,0.0,0
+Front seven,punting_TB,743,0,743,0.0,0
+Front seven,punting_YDS,743,0,743,0.0,0
+Front seven,punting_YPP,743,0,743,0.0,0
+Kicker,kicking_FGA,21,12,9,57.14,11
+Kicker,kicking_FGM,21,12,9,57.14,12
+Kicker,kicking_PCT,21,12,9,57.14,10
+Kicker,kicking_PTS,21,12,9,57.14,12
+Kicker,kicking_XPA,21,12,9,57.14,12
+Kicker,kicking_XPM,21,12,9,57.14,12
+Kicker,defensive_PD,21,9,12,42.86,1
+Kicker,defensive_QB_HUR,21,9,12,42.86,1
+Kicker,defensive_SACKS,21,9,12,42.86,1
+Kicker,defensive_SOLO,21,9,12,42.86,5
+Kicker,defensive_TD,21,9,12,42.86,1
+Kicker,defensive_TFL,21,9,12,42.86,1
+Kicker,defensive_TOT,21,9,12,42.86,4
+Kicker,punting_In_20,21,3,18,14.29,3
+Kicker,punting_NO,21,3,18,14.29,3
+Kicker,punting_TB,21,3,18,14.29,2
+Kicker,punting_YDS,21,3,18,14.29,3
+Kicker,punting_YPP,21,3,18,14.29,3
+Kicker,rushing_CAR,21,3,18,14.29,1
+Kicker,rushing_TD,21,3,18,14.29,2
+Kicker,rushing_YDS,21,3,18,14.29,3
+Kicker,fumbles_FUM,21,1,20,4.76,1
+Kicker,fumbles_LOST,21,1,20,4.76,1
+Kicker,fumbles_REC,21,1,20,4.76,1
+Kicker,interceptions_AVG,21,0,21,0.0,0
+Kicker,interceptions_INT,21,0,21,0.0,0
+Kicker,interceptions_TD,21,0,21,0.0,0
+Kicker,interceptions_YDS,21,0,21,0.0,0
+Kicker,kickReturns_AVG,21,0,21,0.0,0
+Kicker,kickReturns_NO,21,0,21,0.0,0
+Kicker,kickReturns_TD,21,0,21,0.0,0
+Kicker,kickReturns_YDS,21,0,21,0.0,0
+Kicker,passing_ATT,21,0,21,0.0,0
+Kicker,passing_COMPLETIONS,21,0,21,0.0,0
+Kicker,passing_INT,21,0,21,0.0,0
+Kicker,passing_PCT,21,0,21,0.0,0
+Kicker,passing_TD,21,0,21,0.0,0
+Kicker,passing_YDS,21,0,21,0.0,0
+Kicker,passing_YPA,21,0,21,0.0,0
+Kicker,puntReturns_AVG,21,0,21,0.0,0
+Kicker,puntReturns_NO,21,0,21,0.0,0
+Kicker,puntReturns_TD,21,0,21,0.0,0
+Kicker,puntReturns_YDS,21,0,21,0.0,0
+Kicker,receiving_REC,21,0,21,0.0,0
+Kicker,receiving_TD,21,0,21,0.0,0
+Kicker,receiving_YDS,21,0,21,0.0,0
+Kicker,receiving_YPR,21,0,21,0.0,0
+Kicker,rushing_YPC,21,0,21,0.0,0
+Long snapper,defensive_PD,8,2,6,25.0,1
+Long snapper,defensive_QB_HUR,8,2,6,25.0,1
+Long snapper,defensive_SACKS,8,2,6,25.0,1
+Long snapper,defensive_SOLO,8,2,6,25.0,1
+Long snapper,defensive_TD,8,2,6,25.0,1
+Long snapper,defensive_TFL,8,2,6,25.0,1
+Long snapper,defensive_TOT,8,2,6,25.0,2
+Long snapper,fumbles_FUM,8,1,7,12.5,1
+Long snapper,fumbles_LOST,8,1,7,12.5,1
+Long snapper,fumbles_REC,8,1,7,12.5,1
+Long snapper,interceptions_AVG,8,0,8,0.0,0
+Long snapper,interceptions_INT,8,0,8,0.0,0
+Long snapper,interceptions_TD,8,0,8,0.0,0
+Long snapper,interceptions_YDS,8,0,8,0.0,0
+Long snapper,kickReturns_AVG,8,0,8,0.0,0
+Long snapper,kickReturns_NO,8,0,8,0.0,0
+Long snapper,kickReturns_TD,8,0,8,0.0,0
+Long snapper,kickReturns_YDS,8,0,8,0.0,0
+Long snapper,kicking_FGA,8,0,8,0.0,0
+Long snapper,kicking_FGM,8,0,8,0.0,0
+Long snapper,kicking_PCT,8,0,8,0.0,0
+Long snapper,kicking_PTS,8,0,8,0.0,0
+Long snapper,kicking_XPA,8,0,8,0.0,0
+Long snapper,kicking_XPM,8,0,8,0.0,0
+Long snapper,passing_ATT,8,0,8,0.0,0
+Long snapper,passing_COMPLETIONS,8,0,8,0.0,0
+Long snapper,passing_INT,8,0,8,0.0,0
+Long snapper,passing_PCT,8,0,8,0.0,0
+Long snapper,passing_TD,8,0,8,0.0,0
+Long snapper,passing_YDS,8,0,8,0.0,0
+Long snapper,passing_YPA,8,0,8,0.0,0
+Long snapper,puntReturns_AVG,8,0,8,0.0,0
+Long snapper,puntReturns_NO,8,0,8,0.0,0
+Long snapper,puntReturns_TD,8,0,8,0.0,0
+Long snapper,puntReturns_YDS,8,0,8,0.0,0
+Long snapper,punting_In_20,8,0,8,0.0,0
+Long snapper,punting_NO,8,0,8,0.0,0
+Long snapper,punting_TB,8,0,8,0.0,0
+Long snapper,punting_YDS,8,0,8,0.0,0
+Long snapper,punting_YPP,8,0,8,0.0,0
+Long snapper,receiving_REC,8,0,8,0.0,0
+Long snapper,receiving_TD,8,0,8,0.0,0
+Long snapper,receiving_YDS,8,0,8,0.0,0
+Long snapper,receiving_YPR,8,0,8,0.0,0
+Long snapper,rushing_CAR,8,0,8,0.0,0
+Long snapper,rushing_TD,8,0,8,0.0,0
+Long snapper,rushing_YDS,8,0,8,0.0,0
+Long snapper,rushing_YPC,8,0,8,0.0,0
+Offensive line,defensive_PD,434,81,353,18.66,2
+Offensive line,defensive_QB_HUR,434,81,353,18.66,2
+Offensive line,defensive_SACKS,434,81,353,18.66,2
+Offensive line,defensive_SOLO,434,81,353,18.66,7
+Offensive line,defensive_TD,434,81,353,18.66,1
+Offensive line,defensive_TFL,434,81,353,18.66,3
+Offensive line,defensive_TOT,434,81,353,18.66,8
+Offensive line,rushing_CAR,434,15,419,3.46,3
+Offensive line,rushing_TD,434,15,419,3.46,3
+Offensive line,rushing_YDS,434,15,419,3.46,12
+Offensive line,rushing_YPC,434,10,424,2.3,4
+Offensive line,fumbles_FUM,434,9,425,2.07,2
+Offensive line,fumbles_LOST,434,9,425,2.07,2
+Offensive line,fumbles_REC,434,9,425,2.07,2
+Offensive line,receiving_REC,434,7,427,1.61,2
+Offensive line,receiving_TD,434,7,427,1.61,2
+Offensive line,receiving_YDS,434,7,427,1.61,5
+Offensive line,receiving_YPR,434,6,428,1.38,2
+Offensive line,passing_ATT,434,1,433,0.23,1
+Offensive line,passing_COMPLETIONS,434,1,433,0.23,1
+Offensive line,passing_INT,434,1,433,0.23,1
+Offensive line,passing_TD,434,1,433,0.23,1
+Offensive line,passing_YDS,434,1,433,0.23,1
+Offensive line,interceptions_AVG,434,0,434,0.0,0
+Offensive line,interceptions_INT,434,0,434,0.0,0
+Offensive line,interceptions_TD,434,0,434,0.0,0
+Offensive line,interceptions_YDS,434,0,434,0.0,0
+Offensive line,kickReturns_AVG,434,0,434,0.0,0
+Offensive line,kickReturns_NO,434,0,434,0.0,0
+Offensive line,kickReturns_TD,434,0,434,0.0,0
+Offensive line,kickReturns_YDS,434,0,434,0.0,0
+Offensive line,kicking_FGA,434,0,434,0.0,0
+Offensive line,kicking_FGM,434,0,434,0.0,0
+Offensive line,kicking_PCT,434,0,434,0.0,0
+Offensive line,kicking_PTS,434,0,434,0.0,0
+Offensive line,kicking_XPA,434,0,434,0.0,0
+Offensive line,kicking_XPM,434,0,434,0.0,0
+Offensive line,passing_PCT,434,0,434,0.0,0
+Offensive line,passing_YPA,434,0,434,0.0,0
+Offensive line,puntReturns_AVG,434,0,434,0.0,0
+Offensive line,puntReturns_NO,434,0,434,0.0,0
+Offensive line,puntReturns_TD,434,0,434,0.0,0
+Offensive line,puntReturns_YDS,434,0,434,0.0,0
+Offensive line,punting_In_20,434,0,434,0.0,0
+Offensive line,punting_NO,434,0,434,0.0,0
+Offensive line,punting_TB,434,0,434,0.0,0
+Offensive line,punting_YDS,434,0,434,0.0,0
+Offensive line,punting_YPP,434,0,434,0.0,0
+Punter,punting_In_20,21,10,11,47.62,8
+Punter,punting_NO,21,10,11,47.62,9
+Punter,punting_TB,21,10,11,47.62,8
+Punter,punting_YDS,21,10,11,47.62,10
+Punter,punting_YPP,21,10,11,47.62,10
+Punter,defensive_PD,21,9,12,42.86,1
+Punter,defensive_QB_HUR,21,9,12,42.86,1
+Punter,defensive_SACKS,21,9,12,42.86,1
+Punter,defensive_SOLO,21,9,12,42.86,5
+Punter,defensive_TD,21,9,12,42.86,1
+Punter,defensive_TFL,21,9,12,42.86,1
+Punter,defensive_TOT,21,9,12,42.86,5
+Punter,rushing_CAR,21,7,14,33.33,2
+Punter,rushing_TD,21,7,14,33.33,1
+Punter,rushing_YDS,21,7,14,33.33,7
+Punter,kicking_FGA,21,3,18,14.29,3
+Punter,kicking_FGM,21,3,18,14.29,3
+Punter,kicking_PTS,21,3,18,14.29,3
+Punter,kicking_XPA,21,3,18,14.29,3
+Punter,kicking_XPM,21,3,18,14.29,3
+Punter,kicking_PCT,21,2,19,9.52,2
+Punter,passing_ATT,21,2,19,9.52,1
+Punter,passing_COMPLETIONS,21,2,19,9.52,1
+Punter,passing_INT,21,2,19,9.52,1
+Punter,passing_TD,21,2,19,9.52,1
+Punter,passing_YDS,21,2,19,9.52,2
+Punter,rushing_YPC,21,2,19,9.52,2
+Punter,passing_PCT,21,1,20,4.76,1
+Punter,passing_YPA,21,1,20,4.76,1
+Punter,fumbles_FUM,21,0,21,0.0,0
+Punter,fumbles_LOST,21,0,21,0.0,0
+Punter,fumbles_REC,21,0,21,0.0,0
+Punter,interceptions_AVG,21,0,21,0.0,0
+Punter,interceptions_INT,21,0,21,0.0,0
+Punter,interceptions_TD,21,0,21,0.0,0
+Punter,interceptions_YDS,21,0,21,0.0,0
+Punter,kickReturns_AVG,21,0,21,0.0,0
+Punter,kickReturns_NO,21,0,21,0.0,0
+Punter,kickReturns_TD,21,0,21,0.0,0
+Punter,kickReturns_YDS,21,0,21,0.0,0
+Punter,puntReturns_AVG,21,0,21,0.0,0
+Punter,puntReturns_NO,21,0,21,0.0,0
+Punter,puntReturns_TD,21,0,21,0.0,0
+Punter,puntReturns_YDS,21,0,21,0.0,0
+Punter,receiving_REC,21,0,21,0.0,0
+Punter,receiving_TD,21,0,21,0.0,0
+Punter,receiving_YDS,21,0,21,0.0,0
+Punter,receiving_YPR,21,0,21,0.0,0
+QB,fumbles_FUM,119,40,79,33.61,20
+QB,fumbles_LOST,119,40,79,33.61,13
+QB,fumbles_REC,119,40,79,33.61,2
+QB,passing_ATT,119,40,79,33.61,40
+QB,passing_COMPLETIONS,119,40,79,33.61,40
+QB,passing_INT,119,40,79,33.61,21
+QB,passing_PCT,119,40,79,33.61,37
+QB,passing_TD,119,40,79,33.61,30
+QB,passing_YDS,119,40,79,33.61,40
+QB,passing_YPA,119,40,79,33.61,23
+QB,rushing_CAR,119,40,79,33.61,39
+QB,rushing_TD,119,40,79,33.61,26
+QB,rushing_YDS,119,40,79,33.61,40
+QB,rushing_YPC,119,40,79,33.61,34
+QB,defensive_PD,119,32,87,26.89,2
+QB,defensive_QB_HUR,119,32,87,26.89,2
+QB,defensive_SACKS,119,32,87,26.89,1
+QB,defensive_SOLO,119,32,87,26.89,6
+QB,defensive_TD,119,32,87,26.89,1
+QB,defensive_TFL,119,32,87,26.89,2
+QB,defensive_TOT,119,32,87,26.89,6
+QB,receiving_REC,119,14,105,11.76,4
+QB,receiving_TD,119,14,105,11.76,2
+QB,receiving_YDS,119,14,105,11.76,11
+QB,punting_In_20,119,7,112,5.88,3
+QB,punting_NO,119,7,112,5.88,3
+QB,punting_TB,119,7,112,5.88,2
+QB,punting_YDS,119,7,112,5.88,7
+QB,punting_YPP,119,6,113,5.04,5
+QB,receiving_YPR,119,6,113,5.04,5
+QB,interceptions_AVG,119,0,119,0.0,0
+QB,interceptions_INT,119,0,119,0.0,0
+QB,interceptions_TD,119,0,119,0.0,0
+QB,interceptions_YDS,119,0,119,0.0,0
+QB,kickReturns_AVG,119,0,119,0.0,0
+QB,kickReturns_NO,119,0,119,0.0,0
+QB,kickReturns_TD,119,0,119,0.0,0
+QB,kickReturns_YDS,119,0,119,0.0,0
+QB,kicking_FGA,119,0,119,0.0,0
+QB,kicking_FGM,119,0,119,0.0,0
+QB,kicking_PCT,119,0,119,0.0,0
+QB,kicking_PTS,119,0,119,0.0,0
+QB,kicking_XPA,119,0,119,0.0,0
+QB,kicking_XPM,119,0,119,0.0,0
+QB,puntReturns_AVG,119,0,119,0.0,0
+QB,puntReturns_NO,119,0,119,0.0,0
+QB,puntReturns_TD,119,0,119,0.0,0
+QB,puntReturns_YDS,119,0,119,0.0,0
+RB/FB,receiving_REC,220,122,98,55.45,71
+RB/FB,receiving_TD,220,122,98,55.45,11
+RB/FB,receiving_YDS,220,122,98,55.45,112
+RB/FB,rushing_CAR,220,122,98,55.45,112
+RB/FB,rushing_TD,220,122,98,55.45,43
+RB/FB,rushing_YDS,220,122,98,55.45,120
+RB/FB,receiving_YPR,220,121,99,55.0,68
+RB/FB,rushing_YPC,220,120,100,54.55,39
+RB/FB,fumbles_FUM,220,113,107,51.36,12
+RB/FB,fumbles_LOST,220,113,107,51.36,10
+RB/FB,fumbles_REC,220,113,107,51.36,2
+RB/FB,defensive_PD,220,92,128,41.82,2
+RB/FB,defensive_QB_HUR,220,92,128,41.82,2
+RB/FB,defensive_SACKS,220,92,128,41.82,3
+RB/FB,defensive_SOLO,220,92,128,41.82,14
+RB/FB,defensive_TD,220,92,128,41.82,6
+RB/FB,defensive_TFL,220,92,128,41.82,3
+RB/FB,defensive_TOT,220,92,128,41.82,16
+RB/FB,kickReturns_NO,220,75,145,34.09,32
+RB/FB,kickReturns_TD,220,75,145,34.09,6
+RB/FB,kickReturns_YDS,220,75,145,34.09,68
+RB/FB,kickReturns_AVG,220,42,178,19.09,32
+RB/FB,passing_ATT,220,32,188,14.55,6
+RB/FB,passing_COMPLETIONS,220,32,188,14.55,5
+RB/FB,passing_INT,220,32,188,14.55,2
+RB/FB,passing_TD,220,32,188,14.55,2
+RB/FB,passing_YDS,220,32,188,14.55,20
+RB/FB,puntReturns_NO,220,19,201,8.64,6
+RB/FB,puntReturns_TD,220,19,201,8.64,2
+RB/FB,puntReturns_YDS,220,19,201,8.64,16
+RB/FB,passing_PCT,220,14,206,6.36,3
+RB/FB,passing_YPA,220,14,206,6.36,8
+RB/FB,puntReturns_AVG,220,6,214,2.73,6
+RB/FB,interceptions_AVG,220,0,220,0.0,0
+RB/FB,interceptions_INT,220,0,220,0.0,0
+RB/FB,interceptions_TD,220,0,220,0.0,0
+RB/FB,interceptions_YDS,220,0,220,0.0,0
+RB/FB,kicking_FGA,220,0,220,0.0,0
+RB/FB,kicking_FGM,220,0,220,0.0,0
+RB/FB,kicking_PCT,220,0,220,0.0,0
+RB/FB,kicking_PTS,220,0,220,0.0,0
+RB/FB,kicking_XPA,220,0,220,0.0,0
+RB/FB,kicking_XPM,220,0,220,0.0,0
+RB/FB,punting_In_20,220,0,220,0.0,0
+RB/FB,punting_NO,220,0,220,0.0,0
+RB/FB,punting_TB,220,0,220,0.0,0
+RB/FB,punting_YDS,220,0,220,0.0,0
+RB/FB,punting_YPP,220,0,220,0.0,0
+TE,receiving_REC,141,73,68,51.77,54
+TE,receiving_TD,141,73,68,51.77,20
+TE,receiving_YDS,141,73,68,51.77,73
+TE,receiving_YPR,141,73,68,51.77,45
+TE,defensive_PD,141,55,86,39.01,2
+TE,defensive_QB_HUR,141,55,86,39.01,2
+TE,defensive_SACKS,141,55,86,39.01,1
+TE,defensive_SOLO,141,55,86,39.01,8
+TE,defensive_TD,141,55,86,39.01,2
+TE,defensive_TFL,141,55,86,39.01,1
+TE,defensive_TOT,141,55,86,39.01,8
+TE,fumbles_FUM,141,41,100,29.08,4
+TE,fumbles_LOST,141,41,100,29.08,3
+TE,fumbles_REC,141,41,100,29.08,3
+TE,rushing_CAR,141,29,112,20.57,13
+TE,rushing_TD,141,29,112,20.57,6
+TE,rushing_YDS,141,29,112,20.57,20
+TE,kickReturns_NO,141,24,117,17.02,5
+TE,kickReturns_TD,141,24,117,17.02,1
+TE,kickReturns_YDS,141,24,117,17.02,16
+TE,rushing_YPC,141,21,120,14.89,17
+TE,passing_ATT,141,7,134,4.96,4
+TE,passing_COMPLETIONS,141,7,134,4.96,3
+TE,passing_INT,141,7,134,4.96,1
+TE,passing_TD,141,7,134,4.96,2
+TE,passing_YDS,141,7,134,4.96,7
+TE,passing_PCT,141,6,135,4.26,3
+TE,passing_YPA,141,6,135,4.26,5
+TE,kickReturns_AVG,141,5,136,3.55,3
+TE,puntReturns_NO,141,5,136,3.55,3
+TE,puntReturns_TD,141,5,136,3.55,2
+TE,puntReturns_YDS,141,5,136,3.55,5
+TE,punting_In_20,141,1,140,0.71,1
+TE,punting_NO,141,1,140,0.71,1
+TE,punting_TB,141,1,140,0.71,1
+TE,punting_YDS,141,1,140,0.71,1
+TE,punting_YPP,141,1,140,0.71,1
+TE,interceptions_AVG,141,0,141,0.0,0
+TE,interceptions_INT,141,0,141,0.0,0
+TE,interceptions_TD,141,0,141,0.0,0
+TE,interceptions_YDS,141,0,141,0.0,0
+TE,kicking_FGA,141,0,141,0.0,0
+TE,kicking_FGM,141,0,141,0.0,0
+TE,kicking_PCT,141,0,141,0.0,0
+TE,kicking_PTS,141,0,141,0.0,0
+TE,kicking_XPA,141,0,141,0.0,0
+TE,kicking_XPM,141,0,141,0.0,0
+TE,puntReturns_AVG,141,0,141,0.0,0
+Unknown,defensive_PD,1,0,1,0.0,0
+Unknown,defensive_QB_HUR,1,0,1,0.0,0
+Unknown,defensive_SACKS,1,0,1,0.0,0
+Unknown,defensive_SOLO,1,0,1,0.0,0
+Unknown,defensive_TD,1,0,1,0.0,0
+Unknown,defensive_TFL,1,0,1,0.0,0
+Unknown,defensive_TOT,1,0,1,0.0,0
+Unknown,fumbles_FUM,1,0,1,0.0,0
+Unknown,fumbles_LOST,1,0,1,0.0,0
+Unknown,fumbles_REC,1,0,1,0.0,0
+Unknown,interceptions_AVG,1,0,1,0.0,0
+Unknown,interceptions_INT,1,0,1,0.0,0
+Unknown,interceptions_TD,1,0,1,0.0,0
+Unknown,interceptions_YDS,1,0,1,0.0,0
+Unknown,kickReturns_AVG,1,0,1,0.0,0
+Unknown,kickReturns_NO,1,0,1,0.0,0
+Unknown,kickReturns_TD,1,0,1,0.0,0
+Unknown,kickReturns_YDS,1,0,1,0.0,0
+Unknown,kicking_FGA,1,0,1,0.0,0
+Unknown,kicking_FGM,1,0,1,0.0,0
+Unknown,kicking_PCT,1,0,1,0.0,0
+Unknown,kicking_PTS,1,0,1,0.0,0
+Unknown,kicking_XPA,1,0,1,0.0,0
+Unknown,kicking_XPM,1,0,1,0.0,0
+Unknown,passing_ATT,1,0,1,0.0,0
+Unknown,passing_COMPLETIONS,1,0,1,0.0,0
+Unknown,passing_INT,1,0,1,0.0,0
+Unknown,passing_PCT,1,0,1,0.0,0
+Unknown,passing_TD,1,0,1,0.0,0
+Unknown,passing_YDS,1,0,1,0.0,0
+Unknown,passing_YPA,1,0,1,0.0,0
+Unknown,puntReturns_AVG,1,0,1,0.0,0
+Unknown,puntReturns_NO,1,0,1,0.0,0
+Unknown,puntReturns_TD,1,0,1,0.0,0
+Unknown,puntReturns_YDS,1,0,1,0.0,0
+Unknown,punting_In_20,1,0,1,0.0,0
+Unknown,punting_NO,1,0,1,0.0,0
+Unknown,punting_TB,1,0,1,0.0,0
+Unknown,punting_YDS,1,0,1,0.0,0
+Unknown,punting_YPP,1,0,1,0.0,0
+Unknown,receiving_REC,1,0,1,0.0,0
+Unknown,receiving_TD,1,0,1,0.0,0
+Unknown,receiving_YDS,1,0,1,0.0,0
+Unknown,receiving_YPR,1,0,1,0.0,0
+Unknown,rushing_CAR,1,0,1,0.0,0
+Unknown,rushing_TD,1,0,1,0.0,0
+Unknown,rushing_YDS,1,0,1,0.0,0
+Unknown,rushing_YPC,1,0,1,0.0,0
+WR,receiving_REC,319,162,157,50.78,107
+WR,receiving_TD,319,162,157,50.78,32
+WR,receiving_YDS,319,162,157,50.78,156
+WR,receiving_YPR,319,162,157,50.78,83
+WR,defensive_PD,319,141,178,44.2,4
+WR,defensive_QB_HUR,319,141,178,44.2,3
+WR,defensive_SACKS,319,141,178,44.2,2
+WR,defensive_SOLO,319,141,178,44.2,14
+WR,defensive_TD,319,141,178,44.2,7
+WR,defensive_TFL,319,141,178,44.2,4
+WR,defensive_TOT,319,141,178,44.2,16
+WR,rushing_CAR,319,119,200,37.3,36
+WR,rushing_TD,319,119,200,37.3,8
+WR,rushing_YDS,319,119,200,37.3,90
+WR,fumbles_FUM,319,116,203,36.36,12
+WR,fumbles_LOST,319,116,203,36.36,8
+WR,fumbles_REC,319,116,203,36.36,3
+WR,rushing_YPC,319,98,221,30.72,66
+WR,kickReturns_NO,319,83,236,26.02,28
+WR,kickReturns_TD,319,83,236,26.02,5
+WR,kickReturns_YDS,319,83,236,26.02,76
+WR,puntReturns_NO,319,79,240,24.76,41
+WR,puntReturns_TD,319,79,240,24.76,6
+WR,puntReturns_YDS,319,79,240,24.76,69
+WR,puntReturns_AVG,319,56,263,17.55,44
+WR,kickReturns_AVG,319,49,270,15.36,39
+WR,passing_ATT,319,39,280,12.23,8
+WR,passing_COMPLETIONS,319,39,280,12.23,6
+WR,passing_INT,319,39,280,12.23,4
+WR,passing_TD,319,39,280,12.23,3
+WR,passing_YDS,319,39,280,12.23,23
+WR,passing_PCT,319,28,291,8.78,4
+WR,passing_YPA,319,28,291,8.78,16
+WR,interceptions_INT,319,4,315,1.25,2
+WR,interceptions_TD,319,4,315,1.25,2
+WR,interceptions_YDS,319,4,315,1.25,3
+WR,interceptions_AVG,319,2,317,0.63,2
+WR,kicking_FGA,319,1,318,0.31,1
+WR,kicking_FGM,319,1,318,0.31,1
+WR,kicking_PCT,319,1,318,0.31,1
+WR,kicking_PTS,319,1,318,0.31,1
+WR,kicking_XPA,319,1,318,0.31,1
+WR,kicking_XPM,319,1,318,0.31,1
+WR,punting_In_20,319,1,318,0.31,1
+WR,punting_NO,319,1,318,0.31,1
+WR,punting_TB,319,1,318,0.31,1
+WR,punting_YDS,319,1,318,0.31,1
+WR,punting_YPP,319,1,318,0.31,1
