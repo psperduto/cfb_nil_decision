@@ -1,4 +1,4 @@
-﻿import pandas as pd
+import pandas as pd
 from pathlib import Path
 
 P = Path("data/processed")
@@ -52,7 +52,8 @@ rate_fields = [
 rate_fields = [c for c in rate_fields if c in history.columns]
 
 latest = (
-    history.sort_values("season")
+    history.loc[history["season"].notna()]
+    .sort_values("season")
     .groupby(group_keys, dropna=False)
     .tail(1)[group_keys + rate_fields]
 )

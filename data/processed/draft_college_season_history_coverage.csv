@@ -629,7 +629,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2023,4,115,Roschon Johnson,Texas,strong_candidate,4,2019.0,2022.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,4,116,Colby Wooden,Auburn,strong_candidate,4,2019.0,2022.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,4,117,Sidy Sow,Eastern Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2023,4,118,Braeden Daniels,Utah,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2023,4,118,Braeden Daniels,Utah,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,4,119,Chamarri Conner,Virginia Tech,strong_candidate,5,2018.0,2022.0,5,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,4,120,Carter Warren,Pittsburgh,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,4,121,Ventrell Miller,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -770,7 +770,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2023,7,256,Grant DuBose,Charlotte,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,7,257,Alex Forsyth,Oregon,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2023,7,258,Kendall Williamson,Stanford,strong_candidate,5,2018.0,2022.0,5,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2023,7,259,Desjuan Johnson,Toledo,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2023,7,259,Desjuan Johnson,Toledo,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,1,1,Travon Walker,Georgia,strong_candidate,3,2019.0,2021.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,1,2,Aidan Hutchinson,Michigan,strong_candidate,4,2018.0,2021.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,1,3,Derek Stingley Jr.,LSU,strong_candidate,3,2019.0,2021.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -829,8 +829,8 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2022,2,56,Sam Williams,Mississippi,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,2,57,Luke Goedeke,Central Michigan,strong_candidate,1,2019.0,2019.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,2,58,Troy Andersen,Montana State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2022,2,59,Ed Ingram,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2022,2,60,Cam Taylor-Britt,Nebraska,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2022,2,59,Ed Ingram,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2022,2,60,Cam Taylor-Britt,Nebraska,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,2,61,Drake Jackson,USC,strong_candidate,3,2019.0,2021.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,2,62,Bryan Cook,Cincinnati,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,2,63,James Cook,Georgia,strong_candidate,4,2018.0,2021.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -942,7 +942,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2022,5,169,Ty Chandler,North Carolina,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,5,170,Teagan Quitoriano,Oregon State,strong_candidate,4,2018.0,2021.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,5,171,Luke Wattenberg,Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2022,5,172,Samuel Womack,Toledo,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2022,5,172,Samuel Womack,Toledo,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,5,173,Marcus McKethan,North Carolina,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,5,174,Dominique Robinson,Miami (OH),strong_candidate,4,2018.0,2021.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,5,175,Matthew Butler,Tennessee,strong_candidate,5,2017.0,2021.0,5,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -985,7 +985,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2022,6,212,Derion Kendrick,Georgia,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,6,213,John FitzPatrick,Georgia,strong_candidate,3,2019.0,2021.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,6,214,Ja'Sir Taylor,Wake Forest,strong_candidate,5,2017.0,2021.0,5,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2022,6,215,Lecitus Smith,Virginia Tech,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2022,6,215,Lecitus Smith,Virginia Tech,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,6,216,Curtis Brooks,Cincinnati,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,6,217,James Houston IV,Jackson State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,6,218,Ko Kieft,Minnesota,strong_candidate,4,2017.0,2021.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1017,7 +1017,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2022,7,244,Christian Matthew,Valdosta State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,7,245,Andrew Stueber,Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,7,246,Dawson Deaton,Texas Tech,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2022,7,247,Skylar Thompson,Kansas State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2022,7,247,Skylar Thompson,Kansas State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,7,248,Andre Anthony,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,7,249,Rasheed Walker,Penn State,strong_candidate,1,2020.0,2020.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2022,7,250,Brittain Brown,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1079,7 +1079,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2021,2,44,Kelvin Joseph,Kentucky,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,45,Walker Little,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,46,Jackson Carman,Clemson,strong_candidate,2,2018.0,2019.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2021,2,47,Asante Samuel Jr.,Florida State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2021,2,47,Asante Samuel Jr.,Florida State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,48,Aaron Banks,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,49,Rondale Moore,Purdue,strong_candidate,3,2018.0,2020.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,50,Azeez Ojulari,Georgia,strong_candidate,3,2018.0,2020.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1093,7 +1093,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2021,2,58,Nick Bolton,Missouri,strong_candidate,3,2018.0,2020.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,59,Terrace Marshall Jr.,LSU,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,60,Pete Werner,Ohio State,strong_candidate,4,2017.0,2020.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2021,2,61,Carlos Basham Jr.,Wake Forest,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2021,2,61,Carlos Basham Jr.,Wake Forest,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,62,Josh Myers,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,63,Creed Humphrey,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2021,2,64,Kyle Trask,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1461,7 +1461,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2020,5,167,Jake Fromm,Georgia,strong_candidate,3,2017.0,2019.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2020,5,168,John Hightower,Boise State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2020,5,169,Harrison Hand,Temple,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2020,5,170,Broderick Washington,Texas Tech,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2020,5,170,Broderick Washington,Texas Tech,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2020,5,171,Isaiah Coulter,Rhode Island,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2020,5,172,Jason Huntley,New Mexico State,strong_candidate,4,2016.0,2019.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2020,5,173,Darnell Mooney,Tulane,strong_candidate,4,2016.0,2019.0,4,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1557,7 +1557,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,1,8,T.J. Hockenson,Iowa,strong_candidate,2,2017.0,2018.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,1,9,Ed Oliver,Houston,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,1,10,Devin Bush,Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,1,11,Jonah Williams,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,1,11,Jonah Williams,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,1,12,Rashan Gary,Michigan,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,1,13,Christian Wilkins,Clemson,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,1,14,Chris Lindstrom,Boston College,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1583,7 +1583,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,2,34,Rock Ya-Sin,Temple,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,2,35,Jawaan Taylor,Florida,strong_candidate,1,2018.0,2018.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,2,36,Deebo Samuel,South Carolina,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,2,37,Greg Little,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,2,37,Greg Little,Mississippi,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,2,38,Cody Ford,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,2,39,Sean Murphy-Bunting,Central Michigan,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,2,40,Trayvon Mullen,Clemson,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1625,7 +1625,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,3,76,Terry McLaurin,Ohio State,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,77,Chase Winovich,Michigan,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,78,Michael Deiter,Wisconsin,strong_candidate,2,2017.0,2018.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,6,188,David Long,West Virginia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,6,188,David Long,West Virginia,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,80,Sione Takitaki,BYU,strong_candidate,2,2017.0,2018.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,81,Will Harris,Boston College,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,82,Nate Davis,Charlotte,strong_candidate,1,2017.0,2017.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1638,7 +1638,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,3,89,Bobby Okereke,Stanford,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,90,Connor McGovern,Penn State,strong_candidate,1,2018.0,2018.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,91,Trey Pipkins,Sioux Falls,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,3,92,Chuma Edoga,USC,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,3,92,Chuma Edoga,USC,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,93,Miles Boykin,Notre Dame,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,94,Jamel Dean,Auburn,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,3,95,Oshane Ximines,Old Dominion,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1651,7 +1651,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,3,102,Alexander Mattison,Boise State,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,103,Hakeem Butler,Iowa State,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,104,Ryan Finley,NC State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,4,105,Chauncey Gardner-Johnson,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,4,105,Chauncey Gardner-Johnson,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,106,Maxx Crosby,Eastern Michigan,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,107,Anthony Nelson,Iowa,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,108,Julian Love,Notre Dame,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1660,7 +1660,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,4,111,Kendall Sheffield,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,112,Bryce Love,Stanford,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,113,Justice Hill,Oklahoma State,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,4,114,Dru Samia,Oklahoma,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,4,114,Dru Samia,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,115,Christian Miller,Alabama,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,116,Amani Hooker,Iowa,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,117,Austin Bryant,Clemson,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1682,7 +1682,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,4,133,Jarrett Stidham,Auburn,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,134,Greg Gaines,Washington,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,135,John Cominsky,Charleston,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,4,136,Michael Jordan,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,4,136,Michael Jordan,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,137,Foster Moreau,LSU,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,4,138,Shareef Miller,Penn State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,5,139,Deionte Thompson,Alabama,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1760,7 +1760,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,6,212,Dennis Daley,South Carolina,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,6,213,Donovan Wilson,Texas A&M,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,6,214,Darwin Thompson,Utah State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,7,215,Terry Beckner Jr.,Missouri,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,7,215,Terry Beckner Jr.,Missouri,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,216,Nick Allegretti,Illinois,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,217,Kris Boyd,Texas,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,218,Mike Weber,Ohio State,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1797,7 +1797,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2019,7,249,Michael Dogbe,Temple,strong_candidate,3,2016.0,2018.0,3,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,250,Austin Cutting,Air Force,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,251,Dakota Allen,Texas Tech,strong_candidate,2,2017.0,2018.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2019,7,252,Ken Webster,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2019,7,252,Ken Webster,Mississippi,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,253,Jordan Brailford,Oklahoma State,strong_candidate,2,2017.0,2018.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2019,7,254,Caleb Wilson,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,1,Baker Mayfield,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1812,7 +1812,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,1,10,Josh Rosen,UCLA,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,11,Minkah Fitzpatrick,Alabama,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,12,Vita Vea,Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,1,13,Da'Ron Payne,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,1,13,Da'Ron Payne,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,14,Marcus Davenport,UTSA,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,15,Kolton Miller,UCLA,strong_candidate,1,2017.0,2017.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,1,16,Tremaine Edmunds,Virginia Tech,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1836,7 +1836,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,2,34,Will Hernandez,UTEP,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,35,Nick Chubb,Georgia,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,36,Darius Leonard,South Carolina State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,2,37,Braden Smith,Auburn,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,2,37,Braden Smith,Auburn,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,38,Ronald Jones II,USC,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,39,James Daniels,Iowa,strong_candidate,1,2017.0,2017.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,40,Courtland Sutton,SMU,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1853,7 +1853,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,2,51,Anthony Miller,Memphis,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,52,Kemoko Turay,Rutgers,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,53,M.J. Stewart,North Carolina,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,2,54,Jessie Bates III,Wake Forest,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,2,54,Jessie Bates III,Wake Forest,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,55,Donte Jackson,LSU,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,56,Duke Dawson,Florida,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,2,57,P.J. Hall,Sam Houston State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1888,15 +1888,15 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,3,86,Mark Andrews,Oklahoma,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,87,Arden Key,LSU,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,88,Oren Burks,Vanderbilt,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,3,89,Joseph Noteboom,TCU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,3,89,Joseph Noteboom,TCU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,90,Deadrin Senat,South Florida,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,91,Tre'Quan Smith,UCF,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,3,92,Chukwuma Okorafor,Western Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,3,92,Chukwuma Okorafor,Western Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,93,Ronnie Harrison,Alabama,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,94,Alex Cappa,Humboldt State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,95,Tarvarius Moore,Southern Miss,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,96,Harrison Phillips,Stanford,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,3,97,Mason Cole,Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,3,97,Mason Cole,Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,98,Jordan Akins,UCF,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,99,Isaac Yiadom,Boston College,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,3,100,Dorian O'Daniel,Clemson,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1910,7 +1910,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,4,108,Kyle Lauletta,Richmond,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,4,109,Troy Apke,Penn State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,4,110,Nick Nelson,Wisconsin,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,4,111,Brian Allen,Michigan State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,4,111,Brian Allen,Michigan State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,4,112,Mark Walton,Miami (FL),strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,4,113,DaeSean Hamilton,Penn State,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,4,114,Da'Shawn Hand,Alabama,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1939,7 +1939,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,4,137,Dalton Schultz,Stanford,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,138,Cole Madison,Washington State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,139,R.J. McIntosh,Miami (FL),strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,5,140,Maurice Hurst,Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,5,140,Maurice Hurst,Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,141,Shaquem Griffin,UCF,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,142,D.J. Reed,Kansas State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,143,Ja'Whaun Bentley,Purdue,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1952,7 +1952,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,5,150,Genard Avery,Memphis,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,151,Davontae Harris,Illinois State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,152,Dane Cruikshank,Arizona,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,5,153,Tyrell Crosby,Oregon,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,5,153,Tyrell Crosby,Oregon,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,154,Siran Neal,Jacksonville State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,155,Scott Quessenberry,UCLA,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,156,Troy Fumagalli,Wisconsin,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1960,7 +1960,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,5,158,Andrew Brown,Virginia,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,159,Daurice Fountain,Northern Iowa,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,160,Obo Okoronkwo,Oklahoma,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,5,161,Jermaine Carter,Maryland,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,5,161,Jermaine Carter,Maryland,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,162,Jordan Lasley,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,163,Tim Settle,Virginia Tech,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,5,164,Natrell Jamerson,Wisconsin,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -1997,7 +1997,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,6,195,Sebastian Joseph-Day,Rutgers,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,196,Tremon Smith,Central Arkansas,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,197,Shaun Dion Hamilton,Alabama,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,6,198,Kahlil McKenzie,Tennessee,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,6,198,Kahlil McKenzie,Tennessee,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,199,Luke Falk,Washington State,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,200,Foyesade Oluokun,Yale,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,201,Boston Scott,Louisiana Tech,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2014,7 +2014,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,6,212,Greg Senat,Wagner,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,213,Colby Gossett,Appalachian State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,214,Peter Kalambayi,Stanford,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,6,215,Bradley Bozeman,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,6,215,Bradley Bozeman,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,216,Azeem Victor,Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,217,Keishawn Bierria,Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,6,218,Ade Aruna,Tulane,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2044,16 +2044,16 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2018,7,242,Kendrick Norton,Miami (FL),strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,243,Keion Crossen,Western Carolina,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,244,Justin Lawler,SMU,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,7,245,Will Clapp,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,7,245,Will Clapp,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,246,Joshua Frazier,Alabama,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,247,Logan Cooke,Mississippi State,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,248,Kendall Donnerson,Southeast Missouri State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,249,Logan Woodside,Toledo,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,250,Ryan Izzo,Florida State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,251,Justin Jackson,Northwestern,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,7,252,Rod Taylor,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,7,252,Rod Taylor,Mississippi,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,253,Auden Tate,Florida State,strong_candidate,2,2016.0,2017.0,2,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2018,7,254,Korey Cunningham,Cincinnati,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2018,7,254,Korey Cunningham,Cincinnati,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,255,Austin Proehl,North Carolina,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2018,7,256,Trey Quinn,SMU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,1,1,Myles Garrett,Texas A&M,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2089,7 +2089,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,1,31,Reuben Foster,Alabama,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,1,32,Ryan Ramczyk,Wisconsin,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,33,Kevin King,Washington,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,2,34,Cam Robinson,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,2,34,Cam Robinson,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,35,Malik McDowell,Michigan State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,36,Budda Baker,Washington,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,37,Zay Jones,East Carolina,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2113,11 +2113,11 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,2,55,Dalvin Tomlinson,Alabama,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,56,Obi Melifonwu,UConn,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,57,Zach Cunningham,Vanderbilt,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,2,58,Ethan Pocic,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,2,58,Ethan Pocic,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,59,Tanoh Kpassagnon,Villanova,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,60,Chidobe Awuzie,Colorado,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,61,Josh Jones,NC State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,2,62,JuJu Smith-Schuster,USC,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,2,62,JuJu Smith-Schuster,USC,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,63,Dion Dawkins,Temple,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,2,64,Taylor Moton,Western Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,65,Larry Ogunjobi,Charlotte,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2125,8 +2125,8 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,3,67,Alvin Kamara,Tennessee,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,68,Dawuane Smoot,Illinois,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,69,Cooper Kupp,Eastern Washington,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,3,70,Pat Elflein,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,3,71,Dan Feeney,Indiana,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,3,70,Pat Elflein,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,3,71,Dan Feeney,Indiana,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,72,Taywan Taylor,Western Kentucky,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,73,Jordan Willis,Kansas State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,74,Chris Wormley,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2146,7 +2146,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,3,88,Eddie Vanderdoes,UCLA,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,89,D'Onta Foreman,Texas,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,90,Shaquill Griffin,UCF,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,3,91,John Johnson,Boston College,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,3,91,John Johnson,Boston College,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,92,Jourdan Lewis,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,93,Montravius Adams,Auburn,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,3,94,Cameron Sutton,Tennessee,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2170,28 +2170,28 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,4,112,Eddie Jackson,Alabama,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,113,Rayshawn Jenkins,Miami (FL),strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,114,Samaje Perine,Oklahoma,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,4,115,Dorian Johnson,Pittsburgh,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,4,115,Dorian Johnson,Pittsburgh,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,116,Carl Lawson,Auburn,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,117,Josh Reynolds,Texas A&M,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,118,Mack Hollins,North Carolina,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,119,Tarik Cohen,North Carolina A&T,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,120,Ben Gedeon,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,121,Joe Williams,Utah,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,4,122,Nico Siragusa,San Diego State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,4,122,Nico Siragusa,San Diego State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,123,Montae Nicholson,Michigan State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,124,Jalen Reeves-Maybin,Tennessee,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,125,Samson Ebukam,Eastern Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,126,Howard Wilson,Houston,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,127,Michael Roberts,Toledo,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,128,Josh Malone,Tennessee,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,4,129,David Sharpe,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,4,129,David Sharpe,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,130,Julie'n Davenport,Bucknell,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,4,131,Deatrich Wise Jr.,Arkansas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,4,131,Deatrich Wise Jr.,Arkansas,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,132,Donnel Pumphrey,San Diego State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,133,Ryan Switzer,North Carolina,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,134,Jamaal Williams,BYU,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,135,Joshua Dobbs,Tennessee,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,4,136,Sean Harlow,Oregon State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,4,136,Sean Harlow,Oregon State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,137,Zach Banner,USC,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,138,Ryan Glasgow,Michigan,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,139,Jehu Chesson,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2201,7 +2201,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,4,143,Marlon Mack,South Florida,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,4,144,Grover Stewart,Albany State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,145,Jake Butt,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,5,146,George Kittle,Iowa,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,5,146,George Kittle,Iowa,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,147,Jordan Morgan,Kutztown,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,148,Blair Brown,Ohio,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,149,Damontae Kazee,San Diego State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2212,10 +2212,10 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,5,154,Jeremy Sprinkle,Arkansas,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,155,Jayon Brown,UCLA,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,156,Brian Hill,Wyoming,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,5,157,Will Holden,Vanderbilt,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,5,158,Nate Hairston,Temple,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,5,157,Will Holden,Vanderbilt,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,5,158,Nate Hairston,Temple,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,159,Jermaine Eluemunor,Texas A&M,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,5,160,Roderick Johnson,Florida State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,5,160,Roderick Johnson,Florida State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,161,Anthony Walker,Northwestern,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,162,Jeremy McNichols,Boise State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,163,Matt Milano,Boston College,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2231,7 +2231,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,5,173,Brian Allen,Utah,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,174,Eric Saubert,Drake,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,175,DeAngelo Yancey,Purdue,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,5,176,J.J. Dielman,Utah,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,5,176,J.J. Dielman,Utah,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,177,Trent Taylor,Louisiana Tech,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,178,Davon Godchaux,LSU,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,5,179,T.J. Logan,North Carolina,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2251,11 +2251,11 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,6,193,Jordan Evans,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,194,Vincent Taylor,Oklahoma State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,195,Tanner Vallejo,Boise State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,6,196,Al-Quadin Muhammad,Miami (FL),strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,6,196,Al-Quadin Muhammad,Miami (FL),needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,197,Jeremy Clark,Michigan,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,198,D.J. Jones,Mississippi,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,6,199,Chase Roullier,Wyoming,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,6,200,Adam Bisnowaty,Pittsburgh,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,6,199,Chase Roullier,Wyoming,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,6,200,Adam Bisnowaty,Pittsburgh,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,201,Bucky Hodges,Virginia Tech,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,202,Pita Taumoepenu,Utah,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,203,De'Angelo Henderson,Coastal Carolina,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2267,7 +2267,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,6,209,Robert Davis,Georgia State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,210,Justin Senior,Mississippi State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,211,Conor McDermott,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,6,212,Kofi Amichia,South Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,6,212,Kofi Amichia,South Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,213,Colin Holba,Louisville,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,214,Elijah Qualls,Washington,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,6,215,Brad Kaaya,Miami (FL),strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2298,7 +2298,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2017,7,240,Marquez Williams,Miami (FL),,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,7,241,Khalfani Muhammad,California,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,7,242,Elijah Hood,North Carolina,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2017,7,243,Kyle Fuller,Baylor,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2017,7,243,Kyle Fuller,Baylor,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,7,244,Treyvon Hester,Toledo,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,7,245,Jack Tocho,NC State,strong_candidate,1,2016.0,2016.0,1,linked_history_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2017,7,246,Jordan Carrell,Colorado,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2314,38 +2314,38 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,1,3,Joey Bosa,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,4,Ezekiel Elliott,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,5,Jalen Ramsey,Florida State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,6,Ronnie Stanley,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,6,Ronnie Stanley,Notre Dame,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,7,DeForest Buckner,Oregon,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,8,Jack Conklin,Michigan State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,9,Leonard Floyd,Georgia,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,10,Eli Apple,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,11,Vernon Hargreaves III,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,11,Vernon Hargreaves III,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,12,Sheldon Rankins,Louisville,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,13,Laremy Tunsil,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,14,Karl Joseph,West Virginia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,15,Corey Coleman,Baylor,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,16,Taylor Decker,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,16,Taylor Decker,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,17,Keanu Neal,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,18,Ryan Kelly,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,18,Ryan Kelly,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,19,Shaq Lawson,Clemson,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,20,Darron Lee,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,21,Will Fuller,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,21,Will Fuller,Notre Dame,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,22,Josh Doctson,TCU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,23,Laquon Treadwell,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,24,William Jackson III,Houston,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,25,Artie Burns,Miami (FL),strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,26,Paxton Lynch,Memphis,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,27,Kenny Clark,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,28,Joshua Garnett,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,28,Joshua Garnett,Stanford,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,1,29,Robert Nkemdiche,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,30,Vernon Butler,Louisiana Tech,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,1,31,Germain Ifedi,Texas A&M,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,32,Emmanuel Ogbah,Oklahoma State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,30,Vernon Butler,Louisiana Tech,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,1,31,Germain Ifedi,Texas A&M,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,32,Emmanuel Ogbah,Oklahoma State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,33,Kevin Dodd,Clemson,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,34,Jaylon Smith,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,35,Hunter Henry,Arkansas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,36,Myles Jack,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,37,Chris Jones,Mississippi State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,37,Chris Jones,Mississippi State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,38,Xavien Howard,Baylor,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,39,Noah Spence,Eastern Kentucky,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,40,Sterling Shepard,Oklahoma,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2354,17 +2354,17 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,2,43,Austin Johnson,Penn State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,44,Jihad Ward,Illinois,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,45,Derrick Henry,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,46,A'Shawn Robinson,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,46,A'Shawn Robinson,Alabama,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,47,Michael Thomas,Ohio State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,48,Jason Spriggs,Indiana,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,48,Jason Spriggs,Indiana,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,49,Jarran Reed,Alabama,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,50,Nick Martin,Notre Dame,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,51,Christian Hackenberg,Penn State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,52,Deion Jones,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,53,Su'a Cravens,USC,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,54,Mackensie Alexander,Clemson,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,54,Mackensie Alexander,Clemson,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,55,Tyler Boyd,Pittsburgh,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,2,56,Cody Whitehair,Kansas State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,2,56,Cody Whitehair,Kansas State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,57,T.J. Green,Clemson,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,58,Sean Davis,Maryland,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,2,59,Roberto Aguayo,Florida State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2380,14 +2380,14 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,3,69,Yannick Ngakoue,Maryland,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,70,Bronson Kaufusi,BYU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,71,Darian Thompson,Boise State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,3,72,Jonathan Bullard,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,3,72,Jonathan Bullard,Florida,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,73,Kenyan Drake,Alabama,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,74,KeiVarae Russell,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,75,Shilique Calhoun,Michigan State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,76,Shon Coleman,Auburn,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,77,Daryl Worley,West Virginia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,3,78,Joe Thuney,NC State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,3,79,Isaac Seumalo,Oregon State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,3,78,Joe Thuney,NC State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,3,79,Isaac Seumalo,Oregon State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,80,Adolphus Washington,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,81,Austin Hooper,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,82,Le'Raven Clark,Texas Tech,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2404,16 +2404,16 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,3,93,Cody Kessler,USC,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,94,Nick Vannett,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,95,Graham Glasgow,Michigan,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,3,96,Vincent Valentine,Nebraska,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,3,97,Rees Odhiambo,Boise State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,3,96,Vincent Valentine,Nebraska,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,3,97,Rees Odhiambo,Boise State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,3,98,Justin Simmons,Boston College,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,99,Joe Schobert,Wisconsin,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,100,Connor Cook,Michigan State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,101,Charles Tapper,Oklahoma,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,101,Charles Tapper,Oklahoma,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,102,Joshua Perry,Ohio State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,103,Sheldon Day,Notre Dame,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,103,Sheldon Day,Notre Dame,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,104,Tavon Young,Temple,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,105,Parker Ehinger,Cincinnati,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,105,Parker Ehinger,Cincinnati,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,106,Eric Murray,Minnesota,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,107,Chris Moore,Cincinnati,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,108,Ryan Smith,North Carolina Central,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2424,19 +2424,19 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,4,113,Nick Kwiatkoski,West Virginia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,114,Ricardo Louis,Auburn,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,115,De'Vondre Campbell,Minnesota,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,116,Hassan Ridgeway,Texas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,116,Hassan Ridgeway,Texas,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,117,Pharoh Cooper,South Carolina,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,118,Juston Burris,NC State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,119,Tyler Ervin,San Jose State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,120,David Onyemata,Manitoba,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,121,Willie Beavers,Western Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,122,Andrew Billings,Baylor,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,122,Andrew Billings,Baylor,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,123,Jerald Hawkins,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,124,Deon Bush,Miami (FL),strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,125,Antonio Morrison,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,126,Demarcus Robinson,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,127,Deiondre' Hall,Northern Iowa,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,4,128,Evan Boehm,Missouri,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,4,128,Evan Boehm,Missouri,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,129,Derrick Kindred,TCU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,130,Alex Lewis,Nebraska,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,4,131,Blake Martinez,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2452,31 +2452,31 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,5,141,Zack Sanchez,Oklahoma,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,142,Ronald Blair,Appalachian State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,143,DeAndre Washington,Texas Tech,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,144,Connor McGovern,Missouri,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,145,John Theus,Georgia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,144,Connor McGovern,Missouri,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,145,John Theus,Georgia,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,146,Matt Judon,Grand Valley State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,147,Quinton Jefferson,Maryland,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,148,Caleb Benenoch,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,149,Paul Perkins,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,150,Jordan Howard,Indiana,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,151,Joe Dahl,Washington State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,152,Matt Ioannidis,Temple,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,152,Matt Ioannidis,Temple,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,153,Wendell Smallwood,West Virginia,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,154,Jordan Payton,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,155,Joe Haeg,North Dakota State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,156,Jonathan Williams,Arkansas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,157,LeShaun Sims,Southern Utah,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,158,Brandon Shell,South Carolina,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,158,Brandon Shell,South Carolina,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,159,K.J. Dillon,West Virginia,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,160,Kentrell Brothers,Missouri,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,161,Christian Westerman,Arizona State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,162,Kevin Hogan,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,163,Trevor Davis,California,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,164,Halapoulivaati Vaitai,TCU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,164,Halapoulivaati Vaitai,TCU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,165,Tyreek Hill,West Alabama,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,166,D.J. Reader,Clemson,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,166,D.J. Reader,Clemson,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,167,Marqui Christian,Midwestern State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,5,168,Spencer Drango,Baylor,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,5,168,Spencer Drango,Baylor,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,169,Antwione Williams,Georgia Southern,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,170,Cole Toner,Harvard,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,5,171,Alex Collins,Arkansas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2502,13 +2502,13 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,6,191,Jake Rudock,Michigan,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,192,Kolby Listenbee,TCU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,193,Sebastian Tretola,Arkansas,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,6,194,Cory James,Colorado State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,6,194,Cory James,Colorado State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,195,Wes Schweitzer,San Jose State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,196,Blake Countess,Auburn,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,197,Dan Vitale,Northwestern,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,198,Derek Watt,Wisconsin,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,199,Cody Core,Mississippi,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,6,200,Kyle Murphy,Stanford,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,6,200,Kyle Murphy,Stanford,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,201,Brandon Allen,Arkansas,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,202,Anthony Zettel,Penn State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,203,Dadi Nicolas,Virginia Tech,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2523,16 +2523,16 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,6,212,Kavon Frazier,Central Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,213,Aaron Burbridge,Michigan State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,214,Elandon Roberts,Houston,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,6,215,Joey Hunt,TCU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,6,215,Joey Hunt,TCU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,216,Darius Jackson,Eastern Michigan,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,217,Rico Gathers,Baylor,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,218,Kevon Seymour,USC,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,6,219,Will Parks,Arizona,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,6,219,Will Parks,Arizona,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,6,220,Travis Feeney,Washington,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,6,221,Ted Karras,Illinois,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,6,221,Ted Karras,Illinois,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,222,Aaron Wallace,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,223,Brandon Doughty,Western Kentucky,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,7,224,Donavon Clark,Michigan State,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,7,224,Donavon Clark,Michigan State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,225,Devin Lucien,Arizona State,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,226,Jonathan Woodard,Central Arkansas,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,227,Stephen Weatherly,Vanderbilt,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2542,11 +2542,11 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,7,231,Thomas Duarte,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,232,Steven Daniels,Boston College,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,233,Jalen Mills,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,7,234,Vadal Alexander,LSU,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,7,234,Vadal Alexander,LSU,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,235,Lachlan Edwards,Sam Houston State,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,236,Dwayne Washington,Washington,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,237,Daniel Lasco,California,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,7,238,Devin Fuller,UCLA,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,7,238,Devin Fuller,UCLA,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,239,Trevor Bates,Maine,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,240,Alex McCalister,Florida,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,241,Charone Peake,Clemson,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
@@ -2556,7 +2556,7 @@ draft_year,round,pick,player_name,college,recruit_match_status,observed_college_
 2016,7,245,Clayton Fejedelem,Illinois,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,246,Tyler Matakevich,Temple,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,247,Zac Brooks,Clemson,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
-2016,7,248,Austin Blythe,Iowa,strong_candidate,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
+2016,7,248,Austin Blythe,Iowa,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,249,Prince Charles Iworah,Western Kentucky,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,250,Scooby Wright III,Arizona,,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
 2016,7,251,Joe Walker,Oregon,needs_review,0,,,0,no_linked_seasons_observed,Stats source covers regular seasons 2016-2025; earlier seasons unavailable
