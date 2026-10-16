@@ -71,3 +71,18 @@ data from inferred or missing information.
 
 Raw source downloads are kept separately from processed outputs. API keys
 and other credentials must not be committed to the repository.
+
+## Consolidated Recruiting Dataset
+
+File: `data/processed/recruiting_players_2000_2025.csv`
+
+- Grain: one source recruiting record per row.
+- Coverage: high-school recruiting classes, 2000–2025.
+- Rows: 77,275 in the current extraction.
+- Source files: 26 annual CSVs, preserved locally.
+- `source_file`: identifies the annual CSV from which each record originated.
+- `athleteId`: source identifier when available; 40,124 records are missing it.
+- `stars` and `rating`: preserve missing values; missing ratings do not mean zero-star recruits.
+- `committedTo`: preserve missing values; missing commitments are not proof of no commitment.
+
+This dataset contains high-school recruiting records only. It does not represent the full transfer-portal or junior-college recruiting population. Names and identifiers should be validated before joining recruiting records to college statistics or draft outcomes.
