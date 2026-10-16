@@ -86,3 +86,26 @@ File: `data/processed/recruiting_players_2000_2025.csv`
 - `committedTo`: preserve missing values; missing commitments are not proof of no commitment.
 
 This dataset contains high-school recruiting records only. It does not represent the full transfer-portal or junior-college recruiting population. Names and identifiers should be validated before joining recruiting records to college statistics or draft outcomes.
+
+## NFL Financial Outcomes Dataset
+
+File: `data/processed/draft_nfl_financial_outcomes.csv`
+
+- Grain: one row per NFL draft pick, identified by `draft_year` and `pick`.
+- Coverage: draft classes 2016–2025; 2,563 picks in the current extraction.
+- Draft linkage: 2,433 picks have a verified link to a GSIS player identifier based on normalized player name, draft year, and overall pick agreement.
+- Financial coverage: 2,423 picks have observed financial-season records; 140 picks have missing financial outcomes.
+- `observed_career_cash_paid_millions`: sum of available player-season cash observations, expressed in millions of dollars. This is observed cash through the available source window, not verified lifetime earnings.
+- `observed_career_base_salary_millions` and `observed_career_guaranteed_salary_millions`: sums of recorded season-level fields. These are distinct from contract-level total guarantees.
+- `observed_financial_seasons`: number of seasons represented in the financial history. Coverage varies by player and draft class.
+- `selected_contract_value_millions`, `selected_contract_apy_millions`, and `selected_contract_guaranteed_millions`: terms from one selected contract record, not cumulative career contract values. The selected record may not be the player's rookie contract.
+- Contract monetary fields and season-history financial fields are represented in millions of dollars in the current extraction.
+- Missing financial values are not converted to zero. A missing record does not establish that a player earned nothing.
+- Cash outcomes are right-censored: newer draft classes have had less time to accumulate recorded earnings. Raw cumulative cash should not be compared across draft classes without accounting for the observation window.
+- The underlying season history may not represent a complete career. Interpret these measures as observed financial outcomes, not guaranteed complete career earnings.
+
+### Financial linkage and interpretation
+
+The current financial linkage uses exact normalized player names, matching draft year, matching overall pick, and a nonmissing GSIS identifier. This is a deterministic matching rule, not independent proof of identity. Revalidate the linkage if source records or matching rules change.
+
+Financial outcomes are retrospective. For any return-to-college versus declare-for-the-NFL analysis, post-draft earnings and later contract terms must not be used as predictors available at the player's original decision date.
