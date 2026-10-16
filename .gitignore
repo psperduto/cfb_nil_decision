@@ -1,0 +1,23 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# Raw downloads and archives
+data/raw/
+*.zip
+
+# Large intermediate annual exports
+data/processed/player_stats_*_regular.csv
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor/system files
+.vscode/
+.DS_Store
+Thumbs.db
